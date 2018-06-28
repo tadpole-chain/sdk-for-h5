@@ -18,3 +18,5 @@ SDK文件以异步方式加载，H5游戏只需要在项目中包含require.js�
     继续计时：tct_online()
     
     获取广告并显示：tct_getAdData()
+
+    上传游戏分数：tct_postScore(score)
