@@ -1,5 +1,7 @@
 # sdk-for-h5
 
+[English](./README_EN.md "English Document")
+
 SDK文件以异步方式加载，H5游戏只需要在项目中包含require.js，并按如下方式调用即可：
 
 
