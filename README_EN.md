@@ -1,5 +1,5 @@
 # sdk-for-h5
-[README.md](./README.md "中文文档")
+[中文文档](./README.md "中文文档")
 
 The SDK file is loaded asynchronously. H5 games only need to include require.js in the project and call it as follows:
 
